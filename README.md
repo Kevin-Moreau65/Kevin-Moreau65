@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## Who are you ? 🤨
+
+I'm Kévin Moreau, I'm 20 years old and I'm a french full stack web developer !
+
+## Where are you working ? 👨‍⚕️
+
+I'm working at [Inetum](www.inetum.com) as a Work-study developer for a master.
+I'm looking for some full stack web freelance mission for my freetime !
+
+## What do you know ? 🔎
+
+# Languages :earth_africa:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python&perline=6&theme=dark)](https://skillicons.dev)
 <!--
 **Kevin-Moreau65/Kevin-Moreau65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
