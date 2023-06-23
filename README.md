@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Who are you ? 🤨
 
@@ -11,7 +11,7 @@ I'm looking for some full stack web freelance mission for my freetime !
 
 ## What do you know ? 🔎
 
-# Languages :earth_africa:
+### Languages :earth_africa:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python&perline=6&theme=dark)](https://skillicons.dev)
 <!--
 **Kevin-Moreau65/Kevin-Moreau65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
