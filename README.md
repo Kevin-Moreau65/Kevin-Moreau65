@@ -13,6 +13,9 @@ I'm looking for some full stack web freelance mission for my freetime !
 
 ### Languages :earth_africa:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python&perline=10&theme=dark)](https://skillicons.dev)
+
+<a href=""><img src="https://img.shields.io/badge/Version-WIP-orange.svg"/></a>
+<a href=""><img src="https://img.shields.io/badge/Currently%20playing-Elden%20Ring-green.svg"/></a>
 <!--
 **Kevin-Moreau65/Kevin-Moreau65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
