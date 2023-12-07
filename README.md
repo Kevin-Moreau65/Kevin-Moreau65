@@ -2,7 +2,7 @@
 
 ## Who are you ? 🤨
 
-I'm Kévin Moreau, I'm 20 years old and I'm a french full stack web developer !
+I'm Kévin Moreau, I'm 21 years old and I'm a french full stack web developer !
 
 ## Where are you working ? 👨‍⚕️
 
@@ -15,7 +15,7 @@ I'm looking for some full stack web freelance mission for my freetime !
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python&perline=10&theme=dark)](https://skillicons.dev)
 
 <a href=""><img src="https://img.shields.io/badge/Version-WIP-orange.svg"/></a>
-<a href=""><img src="https://img.shields.io/badge/Currently%20playing-Monster%20Hunter%20World-green.svg"/></a>
+<a href=""><img src="https://img.shields.io/badge/Currently%20playing-God%20Of%20War-red.svg"/></a>
 <!--
 **Kevin-Moreau65/Kevin-Moreau65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
